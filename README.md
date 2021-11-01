@@ -1,5 +1,4 @@
-# cba
-![Gambar 1](Apd/jumping-blushing.gif)<p>
-Coba coba<p>
-asasa<p>
-<b>pqwe</b>
+# Program menghitung luas lingkaran
+## Software yang digunakan
+[Python](https://www.python.org)
+
