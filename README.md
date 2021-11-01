@@ -4,7 +4,9 @@
 ### Flowchart
 ![Gambar 0](Image/Flowchart.PNG)
 ### Penjelasan code program
-![Gambar 1](Image/program_python.PNG)<P>
+![Gambar 1](Image/program_python.PNG)
+Rumusan untuk menghitung luas lingkaran adalah
+    >phi*r*r
 ![Gambar 2](Image/codingan.PNG)<P>
 - Baris 1: mendeklarasikan variable phi dengan nilai 3.14<P>
 - Baris 2: mendeklarasikan variable r serta memasukkan nilai jari-jari lingkaran bertipe float yang didapat dari user.<P>
@@ -20,4 +22,4 @@ Hasil program menghitung luas lingkaran<P>
 ### Kesimpulan 
 Dari hasil program, source code program menghitung luas lingkaran dengan bahasa python tersebut berhasil dapat di compile dan dijalankan tanpa ada error dan saat panjang jari-jari diinput 20 maka menampilkan hasil perhitungan luas lingkaran yaitu 1256,0.<P>
 ## Terima Kasih
-            ![Gambar 6](Image/Thanks.gif)
+![Gambar 6](Image/Thanks.gif)
