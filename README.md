@@ -1,7 +1,7 @@
-# Program menghitung luas lingkaran
+# Program menghitung luas lingkaran &</p> Program menghitung keliling lingkaran 
 ## Bahasa program yang di gunakan
 [Python](https://www.python.org)
-### Flowchart
+### Flowchart luas lingkaran
 ![Gambar 0](Image/Flowchart.PNG)
 ### Penjelasan code program
 ![Gambar 1](Image/program_python.PNG)
