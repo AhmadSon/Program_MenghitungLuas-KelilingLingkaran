@@ -19,3 +19,5 @@ Hasil program menghitung luas lingkaran<P>
 ![Gambar 5](Image/output.PNG)
 ### Kesimpulan 
 Dari hasil program, source code program menghitung luas lingkaran dengan bahasa python tersebut berhasil dapat di compile dan dijalankan tanpa ada error dan saat panjang jari-jari diinput 20 maka menampilkan hasil perhitungan luas lingkaran yaitu 1256,0.<P>
+## Terima Kasih
+            ![Gambar 6](Image/Thanks.gif)
