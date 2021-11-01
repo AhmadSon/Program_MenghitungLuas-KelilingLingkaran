@@ -1,8 +1,11 @@
 # Program menghitung luas lingkaran
 ## Bahasa program yang di gunakan
 [Python](https://www.python.org)
+### Flowchart
+![Gambar 0](Image/Flowchart.PNG)
 ### Penjelasan code program
 ![Gambar 1](Image/program_python.PNG)<P>
+Rumusan mengitung luas lingkaran adalah "phi*r*r"<P>
 ![Gambar 2](Image/codingan.PNG)<P>
 - Baris 1: mendeklarasikan variable phi dengan nilai 3.14<P>
 - Baris 2: mendeklarasikan variable r serta memasukkan nilai jari-jari lingkaran bertipe float yang didapat dari user.<P>
